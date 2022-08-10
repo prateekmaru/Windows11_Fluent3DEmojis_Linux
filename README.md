@@ -59,4 +59,4 @@ https://t.me/rkbdiemoji
 <b> PREL1.0🔻 </b>
 <summary> 🙃 Download and install </summary>
 - Download SourceCode <br> 
-</pre><b><a href="">Click Here</> <br>
+</pre><b><a href="https://github.com/prateekmaru/Windows11_Fluent3DEmojis_Linux/releases/tag/PREL1.0">Click Here</> <br>
