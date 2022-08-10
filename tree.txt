@@ -1,0 +1,14 @@
+[01;34m.[0m/
+├── [01;34m./STOCK_LINUX_emojis[0m/
+│   └── ./STOCK_LINUX_emojis/NotoColorEmoji.ttf
+├── [01;34m./Screenshots[0m/
+│   ├── [01;35m./Screenshots/ss_systemwide.png[0m
+│   ├── [01;35m./Screenshots/og_2d.png[0m
+│   └── [01;35m./Screenshots/new_3d.png[0m
+├── [01;34m./OLD_Windows11-2D_Emojis[0m/
+│   └── ./OLD_Windows11-2D_Emojis/seguiemj.ttf
+├── [01;34m./NEW_rkbdiemoji_fluent_3D_Emojis[0m/
+│   └── ./NEW_rkbdiemoji_fluent_3D_Emojis/seguiemj.ttf
+├── ./tree.txt
+├── ./README.md
+└── ./fonts.conf
