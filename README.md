@@ -13,44 +13,41 @@
 
 <h1> 🏃 Steps...xD </h1>
 <pre>
-===================================================================
-(don't directly copy paste commands) cozz username iz diff xD &&
-Backup Existing Fonts && *.conf
-MAKE SURE YOU USE SAME .CONF FILE WITH THIS REPO
-GO TO THIS PATH
-/home/prateek/.config/fontconfig
-If Not Exist use 'mkdir' create all folders
+===============================================
+Step 1️⃣ :
+-----------------------------------------------
+Download NEW 3D font from this repo *.ttf (fonts)
+-----------------------------------------------
+Step 2️⃣ : Copy in 'cp *.ttf /usr/share/fonts/'
+-----------------------------------------------
+Step 3️⃣ : Update Config
 cd ~/.config/fontconfig/
-MAKE NEW DIR
-mkdir conf.d
-cd conf.d
-MAKE FILE
-touch 01-emoji.conf 
-EDIT WITH VS CODE
-code 01-emoji.conf 
-PAST .conf Provided with this repo
-"fonts.conf"
-&DONE
-Clear Font Cache with this command 
+mkdir conf.d 
+cd conf.d/
+touch 01-emoji.conf
+code 01-emoji.conf
+-----------------------------------------------
+Step 4️⃣ : If not work for you update 
+fonts.conf 
+-----------------------------------------------
+Step 5️⃣ : Clear Font Cache
 fc-cache -f -v
-===================================================================
-</pre>
-<pre>
-===================================================================
-BUT IF NOT WORKS FOR YOU DO THIS
-GOTO SAME PATH
-/home/prateek/.config/fontconfig 
-Past Same Provided fonts.conf --> existing config
-Clear Font Cache with this command 
-fc-cache -f -v
-===================================================================
-⏪ DO REVERSE IF NOT WORKS FOR YOU. XD OR USE 🧠
+===============================================
+OLD_fonts.conf {Stock}
+New_fonts.conf {MyNew Segoe UI Emojis}
+conf.d/01-emoji.conf 
+===============================================
+IF NOT WORKS FOR YOU TEXT ME ON TELEGRAM
+https://t.me/lazy_prateek11
+===============================================
 </pre>
 
 <b> Credits 🙏 </b>
-<br>
 <pre>
-https://t.me/rkbdiemoji
+RKBDI
+Channel Post for Magisk Module for Android Users
+https://t.me/rkbdiemoji 
+https://t.me/rkbdiemoji/257
 </pre>
 
 <details> 
