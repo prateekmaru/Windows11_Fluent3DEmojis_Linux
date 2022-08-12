@@ -4,12 +4,14 @@
 
 <h1>💻 Screenshots</h1>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/prateekmaru/3D-Fluent-Emojis-for-Linux/main/ss/new_3d.png"> </p>
 <h3 align="center"> 🆕 New</h3>
+<p align="center"> <img src="https://raw.githubusercontent.com/prateekmaru/Windows11_Fluent3DEmojis_Linux/main/Screenshots/new_3d.png"> </p>
 
+<h3 align="center"> 😅 Old --OG</h3>
+<p align="center"> <img src="https://raw.githubusercontent.com/prateekmaru/Windows11_Fluent3DEmojis_Linux/main/Screenshots/og_2d.png"> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/prateekmaru/3D-Fluent-Emojis-for-Linux/main/ss/og_2d.png"> </p>
-<h3 align="center"> 😅 Old --Og</h3>
+<p align="center"> <img src="https://raw.githubusercontent.com/prateekmaru/Windows11_Fluent3DEmojis_Linux/main/Screenshots/ss_systemwide.png"> </p>
+<h3 align="center"> Preview Linux </h3>
 
 <h1> 🏃 Steps...xD </h1>
 <pre>
@@ -54,4 +56,4 @@ https://t.me/rkbdiemoji/257
 <b> PREL1.0🔻 </b>
 <summary> 🙃 Download and install </summary>
 - Download SourceCode <br> 
-</pre><b><a href="https://github.com/prateekmaru/3D-Fluent-Emojis-for-Linux/releases/tag/PREL1.0">Click Here</> <br>
+</pre><b><a href="https://github.com/prateekmaru/Windows11_Fluent3DEmojis_Linux/releases/tag/PREL1.01">Click Here</> <br>
